@@ -1,0 +1,27 @@
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+mkdir machine-learning
+ 1015  ls
+ 1016  cd machine-learning
+ 1017  conda create --prefix ./env pandas numpy matplotlib scikit-learn
+ 1018  conda activate /Users/mac/Documents/Learning/machine-learning/env
+ 1019  conda list env
+ 1020  ls
+ 1021  cd env
+ 1022  ls
+ 1023  cd ..
+ 1024  conda install jupyter
+ 1025  jupyter notebook
+ 1026  conda deactivate
+conda install jupyter
+ 1025  jupyter notebook
+ 1026  conda deactivate
+ 1027  history
+ 1028  list
+ 1029  ls
+ 1030  cd env
+ 1031  conda activate
+ 1032  pwd
+ 1033  cd ..
+ 1034  conda activate /Users/mac/Documents/Learning/machine-learning/env
+ 1035  jupyter notebook
+ 1036  conda deactivate
